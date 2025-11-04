@@ -8,4 +8,5 @@
 int main() {
     printf("This is a simple C program.\n");
     printf("test");
+    printf("test1");
 }
